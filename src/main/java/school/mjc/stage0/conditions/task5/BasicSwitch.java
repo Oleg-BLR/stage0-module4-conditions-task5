@@ -2,8 +2,8 @@ package school.mjc.stage0.conditions.task5;
 
 public class BasicSwitch {
     public static void main(String[] args) {
-        int a = 20;
-        switch (a) {
+        int a;
+        switch (0) {
             default:
                 System.out.println("default");
                 break;
